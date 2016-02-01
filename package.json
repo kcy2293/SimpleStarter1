@@ -1,0 +1,21 @@
+{
+  "name": "2015_kict_obd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server -a 0.0.0.0 -p 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.9.11",
+    "express": "^4.13.3",
+    "formidable": "^1.0.17",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "http-server": "^0.8.5",
+    "morgan": "^1.6.1",
+    "shortid": "^2.2.4"
+  }
+}
